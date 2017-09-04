@@ -105,3 +105,4 @@ ENV/
 *.cpp
 *.org
 *.dec
+*.html
